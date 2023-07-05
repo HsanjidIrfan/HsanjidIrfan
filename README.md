@@ -1,14 +1,15 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38CDF7&width=435&lines=Hii!+Nice+to+meet+you!;My+name+is+Sanjid+Hossain+Irfan!" alt="Typing SVG" /></a> </h1>  
-I am a Web Designer and Developer
----------------------------------
+
+I am a Web Designer and Developer.
+----------------------------------
 
 I am a High school student. I have been learning coding for the last 2 years. I have quite good knowledge about Web Developing and Web Designing. I learnt HTML, CSS, Javascript and so on.
 
 * 🌍  I'm based in Dhaka, Bangladesh.
 * ✉️  You can contact me at [https://sanjidhossainirfan.github.io/Contact/](mailto:https://sanjidhossainirfan.github.io/Contact/)
 * 🧠  I'm learning Master Javascript
-* 🤝  I'm open to collaborating on any Front End Web Development project.
+* 🤝  I'm open to collaborating on any Front end web development.
 * ⚡  I am also good at Adobe Illustrator and Microsoft Office Suite. I can make different posters by illustrator and beautiful presentations by PowerPoint.
 
 <a href="https://www.github.com/HsanjidIrfan" target="_blank" rel="noreferrer"><img
