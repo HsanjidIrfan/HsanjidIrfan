@@ -11,7 +11,7 @@ I am a High school student. I have been learning coding for the last 2 years. I 
  </h3>
 
 * 🌍  I'm based in Dhaka, Bangladesh.
-* ✉️  You can contact me at [https://hsanjidirfan.github.io/contact/]
+* ✉️  You can contact me at [Contact](https://hsanjidirfan.github.io/contact/)
 * 📩  You can also mail [Me](mailto:hsanjid854@gmail.com)
 * 🧠  I'm learning Master Javascript
 * 🤝  I'm open to collaborating on any Front end web development.
